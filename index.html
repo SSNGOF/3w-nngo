@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Operational Presence 3W</title>
+    <title>3W:OP - NNGO</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -141,7 +141,7 @@ d3.csv("data/SS3W.csv", function(csv_data){
       .colorDomain([0,9])
       .colorAccessor(function(d, i){return i%9;});
 
-org_chart.width(600).height(500)
+org_chart.width(600).height(5000)
    .dimension(cf.organisation)
    .group(organisation)
    .elasticX(true)
