@@ -64,7 +64,7 @@
    <div class="row">
 <!--       <div class="col-md-8 col-md-offset-3"><h2>South Sudan Operational Presence 3W</h2></div>
  -->      <div class="row">
-     <div class="col-xs-7">Interactive data visualization of South Sudan NNGO Operational Presence at county-level.</br>Hover over segments for additional data and click to filter by selected criteria.</br><strong>Source:</strong> <a href="" target="_blank" >South Sudan NNGO Forum Membership Data</a></br><strong>Last Updated:</strong> 23rd September 2015 </br><small>* Boundaries and names shown do not imply endorsement by the NGO Forum or its members.</small><br><small>* Operational Presence is defined as: Organisations that are physically present in the district and are delivering a humanitarian service or implementing a humanitarian project.</small></div>
+     <div class="col-xs-7">Interactive data visualization of South Sudan NNGO Operational Presence at county-level.</br>Hover over segments for additional data and click to filter by selected criteria.</br><strong>Source:</strong> <a href="" target="_blank" >South Sudan NNGO Forum Membership Data</a></br><strong>Last Updated:</strong> 11 June 2016 </br><small>* Boundaries and names shown do not imply endorsement by the NGO Forum or its members.</small><br><small>* Operational Presence is defined as: Organisations that are physically present in the district and are delivering a humanitarian service or implementing a humanitarian project.</small></div>
      <div id="count-info" class="col-xs-5 ">
         <strong><span class="badge"><span class="filter-count "></span></span></strong> of <strong><span class="badge"><span class="total-count "></span></span></strong> records selected</div>
 
@@ -78,7 +78,7 @@
         </br><a class="btn btn-success btn-sm" href="http://goo.gl/forms/yhbwoDQ0SY">Submit/Update Records</a>
      </div>
 
-      </div>  
+      </div>
       </br></br>
    </div>
    <div class="row">
@@ -141,12 +141,12 @@ d3.csv("data/SS3W.csv", function(csv_data){
       .colorDomain([0,9])
       .colorAccessor(function(d, i){return i%9;});
 
-org_chart.width(600).height(4000)
+org_chart.width(600).height(1400)
    .dimension(cf.organisation)
    .group(organisation)
    .elasticX(true)
    .data(function(group) {
-     return group.top(189);
+     return group.top(66);
      })
 .colors(['#3182bd'])
    .colorDomain([0,0])
@@ -161,7 +161,7 @@ d3.json("data/SSadm2.geojson", function (statesJSON) {
       map_chart.width(750).height(550)
       .dimension(cf.pcode)
       .group(pcode)
-      .colors(['#AAAAAA', '#3182bd']) 
+      .colors(['#AAAAAA', '#3182bd'])
       .colorDomain([0, 1])
       .colorAccessor(function (d) {
      if(d>0){
@@ -180,8 +180,8 @@ d3.json("data/SSadm2.geojson", function (statesJSON) {
 
       $('#loading').hide();
       $('#dashboard').show();
-      dc.renderAll();                  
-});            
+      dc.renderAll();
+});
 });
 </script>
 <script src="js/bootstrap.min.js"></script>
