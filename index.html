@@ -113,7 +113,7 @@ var sector_chart = dc.pieChart("#sector");
 var map_chart = dc.geoChoroplethChart("#map");
 var org_chart = dc.rowChart("#orgs");
 
-d3.csv("https://crossorigin.me/https://docs.google.com/spreadsheets/d/1oYuPy7zCcDvdLAI9kn17XnQ7KNVxU3Wo5EfFTOH5ZmY/pub?output=csv", function(csv_data){
+d3.csv("data/SS3W.csv", function(csv_data){
       var cf = crossfilter(csv_data);
 
       cf.sector = cf.dimension(function(d) { return d.SectorCluster; });
