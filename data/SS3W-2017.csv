@@ -206,28 +206,28 @@ Impact Health Organization,Nutrition,Torit
 Impact Health Organization,WASH,Juba
 Impact Health Organization,WASH,Magwi
 Impact Health Organization,WASH,Torit
-Community Agriculture & Skill Initiative,Education,Bor
+Community Agriculture & Skill Initiative,Education,Bor South
 Community Agriculture & Skill Initiative,Education,Twic East
 Community Agriculture & Skill Initiative,Food Security & Livlihoods,Akobo
-Community Agriculture & Skill Initiative,Food Security & Livlihoods,Bor
+Community Agriculture & Skill Initiative,Food Security & Livlihoods,Bor South
 Community Agriculture & Skill Initiative,Food Security & Livlihoods,Duk
 Community Agriculture & Skill Initiative,Health,Ayod
-Community Agriculture & Skill Initiative,Health,Bor
+Community Agriculture & Skill Initiative,Health,Bor South
 Community Agriculture & Skill Initiative,Health,Twic East
 Community Agriculture & Skill Initiative,Health,Duk
 Community Agriculture & Skill Initiative,CCCM,Akobo
 Community Agriculture & Skill Initiative,CCCM,Twic East
 Community Agriculture & Skill Initiative,CCCM,Duk
 Community Agriculture & Skill Initiative,CCCM,Uror
-Community Agriculture & Skill Initiative,Nutrition,Bor
+Community Agriculture & Skill Initiative,Nutrition,Bor South
 Community Agriculture & Skill Initiative,Protection,Ayod
-Community Agriculture & Skill Initiative,Protection,Bor
+Community Agriculture & Skill Initiative,Protection,Bor South
 Community Agriculture & Skill Initiative,Protection,Twic East
 Community Agriculture & Skill Initiative,Protection,Duk
-Community Agriculture & Skill Initiative,WASH,Bor
+Community Agriculture & Skill Initiative,WASH,Bor South
 Community Agriculture & Skill Initiative,WASH,Twic East
 Community Agriculture & Skill Initiative,WASH,Duk
-Sudan Medical Care,Health,Bor
+Sudan Medical Care,Health,Bor South
 Sudan Medical Care,Health,Duk
 "Organization for Peace,Relief and Development",Education,Kapoeta East
 "Organization for Peace,Relief and Development",Education,Kapoeta North
@@ -319,7 +319,7 @@ AFRICA DEVELOPMENT AID (formerly CADA),Conflict Prevention & Peacebuilding,Canal
 Bio Aid,Education,Terekeka
 Bio Aid,Education,Kapoeta East
 Bio Aid,Education,Ayod
-Bio Aid,Education,Bor
+Bio Aid,Education,Bor South
 Bio Aid,Education,Twic East
 Bio Aid,Education,Duk
 Bio Aid,Education,Nyirol
@@ -334,7 +334,7 @@ Bio Aid,Education,Panyikang
 Bio Aid,Health,Terekeka
 Bio Aid,Health,Kapoeta East
 Bio Aid,Health,Ayod
-Bio Aid,Health,Bor
+Bio Aid,Health,Bor South
 Bio Aid,Health,Twic East
 Bio Aid,Health,Duk
 Bio Aid,Health,Nyirol
@@ -616,14 +616,14 @@ South Sudan Association for Water Supply and Sanitation,WASH,Mundri West
 South Sudan Association for Water Supply and Sanitation,WASH,Twic East
 Institute for Development of Civil Society,Food Security & Livlihoods,Malakal
 Institute for Development of Civil Society,Conflict Prevention & Peacebuilding,Juba
-Institute for Development of Civil Society,Conflict Prevention & Peacebuilding,Bor
+Institute for Development of Civil Society,Conflict Prevention & Peacebuilding,Bor South
 Institute for Development of Civil Society,Conflict Prevention & Peacebuilding,Fashoda
 Institute for Development of Civil Society,Conflict Prevention & Peacebuilding,Malakal
 Institute for Development of Civil Society,Governance & Rule of Law,Juba
 Institute for Development of Civil Society,Governance & Rule of Law,Malakal
 Institute for Development of Civil Society,Media,Juba
 Sudd Silent Hands,Education,Juba
-Sudd Silent Hands,Education,Bor
+Sudd Silent Hands,Education,Bor South
 Humane-Aid for Community Organisation,Education,Yirol East
 Humane-Aid for Community Organisation,Health,Juba
 Humane-Aid for Community Organisation,Mine Action,Yirol East
@@ -690,7 +690,7 @@ SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS ,Health,Malakal
 SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS ,Health,Melut
 SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS ,Health,Renk
 SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS ,CCCM,Juba
-SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS ,CCCM,Bor
+SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS ,CCCM,Bor South
 SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS ,CCCM,Pibor
 SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS ,Nutrition,Yirol East
 SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS ,Nutrition,Yirol West
@@ -701,7 +701,7 @@ SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS ,Protection,Kapoe
 SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS ,Protection,Lafon
 SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS ,Protection,Magwi
 SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS ,Protection,Torit
-SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS ,Protection,Bor
+SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS ,Protection,Bor South
 SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS ,Protection,Pibor
 SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS ,Protection,Awerial
 SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS ,Protection,Yirol East
@@ -738,42 +738,42 @@ Action for Recoevery and Transformation,Nutrition,Kajo Keji
 Action for Recoevery and Transformation,Nutrition,Lainya
 Action for Recoevery and Transformation,Nutrition,Morobo
 Humanitarian development aid (HUDA),Education,Juba
-Humanitarian development aid (HUDA),Education,Bor
+Humanitarian development aid (HUDA),Education,Bor South
 Humanitarian development aid (HUDA),Education,Duk
 Humanitarian development aid (HUDA),Education,Pibor
 Humanitarian development aid (HUDA),Education,Pochalla
 Humanitarian development aid (HUDA),Food Security & Livlihoods,Juba
-Humanitarian development aid (HUDA),Food Security & Livlihoods,Bor
+Humanitarian development aid (HUDA),Food Security & Livlihoods,Bor South
 Humanitarian development aid (HUDA),Food Security & Livlihoods,Twic East
 Humanitarian development aid (HUDA),Food Security & Livlihoods,Duk
 Humanitarian development aid (HUDA),Food Security & Livlihoods,Pibor
 Humanitarian development aid (HUDA),Food Security & Livlihoods,Pochalla
 Humanitarian development aid (HUDA),Health,Juba
-Humanitarian development aid (HUDA),Health,Bor
+Humanitarian development aid (HUDA),Health,Bor South
 Humanitarian development aid (HUDA),Health,Twic East
 Humanitarian development aid (HUDA),Health,Duk
 Humanitarian development aid (HUDA),Health,Pibor
 Humanitarian development aid (HUDA),Health,Pochalla
 Humanitarian development aid (HUDA),Nutrition,Juba
-Humanitarian development aid (HUDA),Nutrition,Bor
+Humanitarian development aid (HUDA),Nutrition,Bor South
 Humanitarian development aid (HUDA),Nutrition,Twic East
 Humanitarian development aid (HUDA),Nutrition,Duk
 Humanitarian development aid (HUDA),Nutrition,Pibor
 Humanitarian development aid (HUDA),Nutrition,Pochalla
 Humanitarian development aid (HUDA),Protection,Juba
-Humanitarian development aid (HUDA),Protection,Bor
+Humanitarian development aid (HUDA),Protection,Bor South
 Humanitarian development aid (HUDA),Protection,Twic East
 Humanitarian development aid (HUDA),Protection,Duk
 Humanitarian development aid (HUDA),Protection,Pibor
 Humanitarian development aid (HUDA),Protection,Pochalla
 Humanitarian development aid (HUDA),Shelter and Non-Food Items,Juba
-Humanitarian development aid (HUDA),Shelter and Non-Food Items,Bor
+Humanitarian development aid (HUDA),Shelter and Non-Food Items,Bor South
 Humanitarian development aid (HUDA),Shelter and Non-Food Items,Twic East
 Humanitarian development aid (HUDA),Shelter and Non-Food Items,Duk
 Humanitarian development aid (HUDA),Shelter and Non-Food Items,Pibor
 Humanitarian development aid (HUDA),Shelter and Non-Food Items,Pochalla
 Humanitarian development aid (HUDA),WASH,Juba
-Humanitarian development aid (HUDA),WASH,Bor
+Humanitarian development aid (HUDA),WASH,Bor South
 Humanitarian development aid (HUDA),WASH,Twic East
 Humanitarian development aid (HUDA),WASH,Duk
 Humanitarian development aid (HUDA),WASH,Pibor
@@ -784,7 +784,7 @@ Crown The Woman South Sudan,Media,Juba
 Humanitarian and Development Consortium,Education,Juba
 Humanitarian and Development Consortium,Education,Maban
 Humanitarian and Development Consortium,Food Security & Livlihoods,Juba
-Humanitarian and Development Consortium,Food Security & Livlihoods,Bor
+Humanitarian and Development Consortium,Food Security & Livlihoods,Bor South
 Humanitarian and Development Consortium,Food Security & Livlihoods,Twic East
 Humanitarian and Development Consortium,Food Security & Livlihoods,Duk
 Humanitarian and Development Consortium,Food Security & Livlihoods,Pibor
@@ -794,7 +794,7 @@ Humanitarian and Development Consortium,Food Security & Livlihoods,Fashoda
 Humanitarian and Development Consortium,Food Security & Livlihoods,Maban
 Humanitarian and Development Consortium,Food Security & Livlihoods,Malakal
 Humanitarian and Development Consortium,Shelter and Non-Food Items,Juba
-Humanitarian and Development Consortium,Shelter and Non-Food Items,Bor
+Humanitarian and Development Consortium,Shelter and Non-Food Items,Bor South
 Humanitarian and Development Consortium,Shelter and Non-Food Items,Twic East
 Humanitarian and Development Consortium,Shelter and Non-Food Items,Duk
 Humanitarian and Development Consortium,Shelter and Non-Food Items,Pibor
@@ -805,7 +805,7 @@ Humanitarian and Development Consortium,Conflict Prevention & Peacebuilding,Juba
 Humanitarian and Development Consortium,Conflict Prevention & Peacebuilding,Duk
 Humanitarian and Development Consortium,Conflict Prevention & Peacebuilding,Maban
 Humanitarian and Development Consortium,Conflict Prevention & Peacebuilding,Malakal
-Humanitarian and Development Consortium,Governance & Rule of Law,Bor
+Humanitarian and Development Consortium,Governance & Rule of Law,Bor South
 Humanitarian and Development Consortium,Governance & Rule of Law,Awerial
 Humanitarian and Development Consortium,Governance & Rule of Law,Malakal
 Humanitarian and Development Consortium,Governance & Rule of Law,Gogrial East
@@ -970,10 +970,10 @@ Foundation for Youth Initiative ,Conflict Prevention & Peacebuilding,Juba
 Foundation for Youth Initiative ,Governance & Rule of Law,Fangak
 GRASS ROOT EMPOWERMENT AND DEVELOPMENT ORGANIZATION,Education,Juba
 GRASS ROOT EMPOWERMENT AND DEVELOPMENT ORGANIZATION,Education,Mundri East
-GRASS ROOT EMPOWERMENT AND DEVELOPMENT ORGANIZATION,Food Security & Livlihoods,Bor
-GRASS ROOT EMPOWERMENT AND DEVELOPMENT ORGANIZATION,Mine Action,Bor
+GRASS ROOT EMPOWERMENT AND DEVELOPMENT ORGANIZATION,Food Security & Livlihoods,Bor South
+GRASS ROOT EMPOWERMENT AND DEVELOPMENT ORGANIZATION,Mine Action,Bor South
 GRASS ROOT EMPOWERMENT AND DEVELOPMENT ORGANIZATION,Nutrition,Kapoeta South
-GRASS ROOT EMPOWERMENT AND DEVELOPMENT ORGANIZATION,Protection,Bor
+GRASS ROOT EMPOWERMENT AND DEVELOPMENT ORGANIZATION,Protection,Bor South
 GRASS ROOT EMPOWERMENT AND DEVELOPMENT ORGANIZATION,Protection,Pibor
 Rev Simion Christian Orphan Foundation ,Education,Canal/Pigi
 Rev Simion Christian Orphan Foundation ,CCCM,Panyikang
@@ -995,7 +995,7 @@ compassion children foundation,Conflict Prevention & Peacebuilding,Maiwut
 Bio Aid,Health,Terekeka
 Bio Aid,Health,Kapoeta East
 Bio Aid,Health,Ayod
-Bio Aid,Health,Bor
+Bio Aid,Health,Bor South
 Bio Aid,Health,Twic East
 Bio Aid,Health,Duk
 Bio Aid,Health,Nyirol
@@ -1039,7 +1039,7 @@ ASDev,Conflict Prevention & Peacebuilding,Juba
 Upper Nation Initiative for Rural Development Organization.,Education,Juba
 Upper Nation Initiative for Rural Development Organization.,Education,Akobo
 Upper Nation Initiative for Rural Development Organization.,Education,Ayod
-Upper Nation Initiative for Rural Development Organization.,Education,Bor
+Upper Nation Initiative for Rural Development Organization.,Education,Bor South
 Upper Nation Initiative for Rural Development Organization.,Education,Twic East
 Upper Nation Initiative for Rural Development Organization.,Education,Duk
 Upper Nation Initiative for Rural Development Organization.,Education,Fangak
@@ -1068,7 +1068,7 @@ Upper Nation Initiative for Rural Development Organization.,Education,Ulang
 Upper Nation Initiative for Rural Development Organization.,Food Security & Livlihoods,Juba
 Upper Nation Initiative for Rural Development Organization.,Food Security & Livlihoods,Akobo
 Upper Nation Initiative for Rural Development Organization.,Food Security & Livlihoods,Ayod
-Upper Nation Initiative for Rural Development Organization.,Food Security & Livlihoods,Bor
+Upper Nation Initiative for Rural Development Organization.,Food Security & Livlihoods,Bor South
 Upper Nation Initiative for Rural Development Organization.,Food Security & Livlihoods,Twic East
 Upper Nation Initiative for Rural Development Organization.,Food Security & Livlihoods,Duk
 Upper Nation Initiative for Rural Development Organization.,Food Security & Livlihoods,Fangak
@@ -1098,7 +1098,7 @@ Upper Nation Initiative for Rural Development Organization.,Health,Ulang
 Upper Nation Initiative for Rural Development Organization.,CCCM,Juba
 Upper Nation Initiative for Rural Development Organization.,CCCM,Akobo
 Upper Nation Initiative for Rural Development Organization.,CCCM,Ayod
-Upper Nation Initiative for Rural Development Organization.,CCCM,Bor
+Upper Nation Initiative for Rural Development Organization.,CCCM,Bor South
 Upper Nation Initiative for Rural Development Organization.,CCCM,Twic East
 Upper Nation Initiative for Rural Development Organization.,CCCM,Duk
 Upper Nation Initiative for Rural Development Organization.,CCCM,Fangak
@@ -1128,7 +1128,7 @@ Upper Nation Initiative for Rural Development Organization.,CCCM,Ulang
 Upper Nation Initiative for Rural Development Organization.,Nutrition,Juba
 Upper Nation Initiative for Rural Development Organization.,Nutrition,Akobo
 Upper Nation Initiative for Rural Development Organization.,Nutrition,Ayod
-Upper Nation Initiative for Rural Development Organization.,Nutrition,Bor
+Upper Nation Initiative for Rural Development Organization.,Nutrition,Bor South
 Upper Nation Initiative for Rural Development Organization.,Nutrition,Twic East
 Upper Nation Initiative for Rural Development Organization.,Nutrition,Duk
 Upper Nation Initiative for Rural Development Organization.,Nutrition,Fangak
@@ -1158,7 +1158,7 @@ Upper Nation Initiative for Rural Development Organization.,Nutrition,Ulang
 Upper Nation Initiative for Rural Development Organization.,Protection,Juba
 Upper Nation Initiative for Rural Development Organization.,Protection,Akobo
 Upper Nation Initiative for Rural Development Organization.,Protection,Ayod
-Upper Nation Initiative for Rural Development Organization.,Protection,Bor
+Upper Nation Initiative for Rural Development Organization.,Protection,Bor South
 Upper Nation Initiative for Rural Development Organization.,Protection,Duk
 Upper Nation Initiative for Rural Development Organization.,Protection,Fangak
 Upper Nation Initiative for Rural Development Organization.,Protection,Canal/Pigi
@@ -1186,7 +1186,7 @@ Upper Nation Initiative for Rural Development Organization.,Protection,Ulang
 Upper Nation Initiative for Rural Development Organization.,Shelter and Non-Food Items,Juba
 Upper Nation Initiative for Rural Development Organization.,Shelter and Non-Food Items,Akobo
 Upper Nation Initiative for Rural Development Organization.,Shelter and Non-Food Items,Ayod
-Upper Nation Initiative for Rural Development Organization.,Shelter and Non-Food Items,Bor
+Upper Nation Initiative for Rural Development Organization.,Shelter and Non-Food Items,Bor South
 Upper Nation Initiative for Rural Development Organization.,Shelter and Non-Food Items,Duk
 Upper Nation Initiative for Rural Development Organization.,Shelter and Non-Food Items,Fangak
 Upper Nation Initiative for Rural Development Organization.,Shelter and Non-Food Items,Canal/Pigi
@@ -1216,7 +1216,7 @@ Upper Nation Initiative for Rural Development Organization.,Shelter and Non-Food
 Upper Nation Initiative for Rural Development Organization.,WASH,Juba
 Upper Nation Initiative for Rural Development Organization.,WASH,Akobo
 Upper Nation Initiative for Rural Development Organization.,WASH,Ayod
-Upper Nation Initiative for Rural Development Organization.,WASH,Bor
+Upper Nation Initiative for Rural Development Organization.,WASH,Bor South
 Upper Nation Initiative for Rural Development Organization.,WASH,Twic East
 Upper Nation Initiative for Rural Development Organization.,WASH,Duk
 Upper Nation Initiative for Rural Development Organization.,WASH,Fangak
@@ -1248,7 +1248,7 @@ Upper Nation Initiative for Rural Development Organization.,WASH,Ulang
 Upper Nation Initiative for Rural Development Organization.,Conflict Prevention & Peacebuilding,Juba
 Upper Nation Initiative for Rural Development Organization.,Conflict Prevention & Peacebuilding,Akobo
 Upper Nation Initiative for Rural Development Organization.,Conflict Prevention & Peacebuilding,Ayod
-Upper Nation Initiative for Rural Development Organization.,Conflict Prevention & Peacebuilding,Bor
+Upper Nation Initiative for Rural Development Organization.,Conflict Prevention & Peacebuilding,Bor South
 Upper Nation Initiative for Rural Development Organization.,Conflict Prevention & Peacebuilding,Twic East
 Upper Nation Initiative for Rural Development Organization.,Conflict Prevention & Peacebuilding,Duk
 Upper Nation Initiative for Rural Development Organization.,Conflict Prevention & Peacebuilding,Fangak
@@ -1280,7 +1280,7 @@ Upper Nation Initiative for Rural Development Organization.,Conflict Prevention 
 Upper Nation Initiative for Rural Development Organization.,Environment & Natural Resources,Juba
 Upper Nation Initiative for Rural Development Organization.,Environment & Natural Resources,Akobo
 Upper Nation Initiative for Rural Development Organization.,Environment & Natural Resources,Ayod
-Upper Nation Initiative for Rural Development Organization.,Environment & Natural Resources,Bor
+Upper Nation Initiative for Rural Development Organization.,Environment & Natural Resources,Bor South
 Upper Nation Initiative for Rural Development Organization.,Environment & Natural Resources,Twic East
 Upper Nation Initiative for Rural Development Organization.,Environment & Natural Resources,Duk
 Upper Nation Initiative for Rural Development Organization.,Environment & Natural Resources,Fangak
@@ -1440,7 +1440,7 @@ South Sudan Integrated Mine Action Service,Mine Action,Juba
 South Sudan Integrated Mine Action Service,Mine Action,Abyei Region
 Smile Again Africa Development Organization,Education,Juba
 Smile Again Africa Development Organization,Education,Terekeka
-Smile Again Africa Development Organization,Education,Bor
+Smile Again Africa Development Organization,Education,Bor South
 Smile Again Africa Development Organization,Education,Twic East
 Smile Again Africa Development Organization,Education,Duk
 Smile Again Africa Development Organization,Education,Pibor
@@ -1456,7 +1456,7 @@ Smile Again Africa Development Organization,Education,Gogrial West
 Smile Again Africa Development Organization,Education,Tonj South
 Smile Again Africa Development Organization,Food Security & Livlihoods,Juba
 Smile Again Africa Development Organization,Food Security & Livlihoods,Terekeka
-Smile Again Africa Development Organization,Food Security & Livlihoods,Bor
+Smile Again Africa Development Organization,Food Security & Livlihoods,Bor South
 Smile Again Africa Development Organization,Food Security & Livlihoods,Twic East
 Smile Again Africa Development Organization,Food Security & Livlihoods,Duk
 Smile Again Africa Development Organization,Food Security & Livlihoods,Pibor
@@ -1473,7 +1473,7 @@ Smile Again Africa Development Organization,Food Security & Livlihoods,Gogrial W
 Smile Again Africa Development Organization,Food Security & Livlihoods,Tonj South
 Smile Again Africa Development Organization,Nutrition,Juba
 Smile Again Africa Development Organization,Nutrition,Terekeka
-Smile Again Africa Development Organization,Nutrition,Bor
+Smile Again Africa Development Organization,Nutrition,Bor South
 Smile Again Africa Development Organization,Nutrition,Twic East
 Smile Again Africa Development Organization,Nutrition,Duk
 Smile Again Africa Development Organization,Nutrition,Pibor
@@ -1490,7 +1490,7 @@ Smile Again Africa Development Organization,Nutrition,Gogrial West
 Smile Again Africa Development Organization,Nutrition,Tonj South
 Smile Again Africa Development Organization,Protection,Juba
 Smile Again Africa Development Organization,Protection,Terekeka
-Smile Again Africa Development Organization,Protection,Bor
+Smile Again Africa Development Organization,Protection,Bor South
 Smile Again Africa Development Organization,Protection,Twic East
 Smile Again Africa Development Organization,Protection,Duk
 Smile Again Africa Development Organization,Protection,Pibor
@@ -1507,7 +1507,7 @@ Smile Again Africa Development Organization,Protection,Gogrial West
 Smile Again Africa Development Organization,Protection,Tonj South
 Smile Again Africa Development Organization,WASH,Juba
 Smile Again Africa Development Organization,WASH,Terekeka
-Smile Again Africa Development Organization,WASH,Bor
+Smile Again Africa Development Organization,WASH,Bor South
 Smile Again Africa Development Organization,WASH,Twic East
 Smile Again Africa Development Organization,WASH,Duk
 Smile Again Africa Development Organization,WASH,Pibor
@@ -1524,7 +1524,7 @@ Smile Again Africa Development Organization,WASH,Gogrial West
 Smile Again Africa Development Organization,WASH,Tonj South
 Smile Again Africa Development Organization,Conflict Prevention & Peacebuilding,Juba
 Smile Again Africa Development Organization,Conflict Prevention & Peacebuilding,Terekeka
-Smile Again Africa Development Organization,Conflict Prevention & Peacebuilding,Bor
+Smile Again Africa Development Organization,Conflict Prevention & Peacebuilding,Bor South
 Smile Again Africa Development Organization,Conflict Prevention & Peacebuilding,Twic East
 Smile Again Africa Development Organization,Conflict Prevention & Peacebuilding,Duk
 Smile Again Africa Development Organization,Conflict Prevention & Peacebuilding,Pibor
@@ -1584,21 +1584,21 @@ Eve Organization for Women Development ,Protection,Yei
 Eve Organization for Women Development ,Protection,Magwi
 Eve Organization for Women Development ,Protection,Torit
 Eve Organization for Women Development ,Protection,Yambio
-Eve Organization for Women Development ,Protection,Bor
+Eve Organization for Women Development ,Protection,Bor South
 Eve Organization for Women Development ,Protection,Wau
 Eve Organization for Women Development ,Conflict Prevention & Peacebuilding,Juba
 Eve Organization for Women Development ,Conflict Prevention & Peacebuilding,Yei
 Eve Organization for Women Development ,Conflict Prevention & Peacebuilding,Magwi
 Eve Organization for Women Development ,Conflict Prevention & Peacebuilding,Torit
 Eve Organization for Women Development ,Conflict Prevention & Peacebuilding,Yambio
-Eve Organization for Women Development ,Conflict Prevention & Peacebuilding,Bor
+Eve Organization for Women Development ,Conflict Prevention & Peacebuilding,Bor South
 Eve Organization for Women Development ,Conflict Prevention & Peacebuilding,Wau
 Eve Organization for Women Development ,Governance & Rule of Law,Juba
 Eve Organization for Women Development ,Governance & Rule of Law,Yei
 Eve Organization for Women Development ,Governance & Rule of Law,Magwi
 Eve Organization for Women Development ,Governance & Rule of Law,Torit
 Eve Organization for Women Development ,Governance & Rule of Law,Yambio
-Eve Organization for Women Development ,Governance & Rule of Law,Bor
+Eve Organization for Women Development ,Governance & Rule of Law,Bor South
 Grassroots Relief and Development Agency,Education,Juba
 Grassroots Relief and Development Agency,Education,Mundri East
 Grassroots Relief and Development Agency,Education,Mundri West
@@ -1621,7 +1621,7 @@ Grassroots Relief and Development Agency,Conflict Prevention & Peacebuilding,Nza
 Grassroots Relief and Development Agency,Conflict Prevention & Peacebuilding,Yambio
 Grassroots Relief and Development Agency,Conflict Prevention & Peacebuilding,Akobo
 Grassroots Relief and Development Agency,Conflict Prevention & Peacebuilding,Ayod
-Grassroots Relief and Development Agency,Conflict Prevention & Peacebuilding,Bor
+Grassroots Relief and Development Agency,Conflict Prevention & Peacebuilding,Bor South
 Grassroots Relief and Development Agency,Conflict Prevention & Peacebuilding,Twic East
 Grassroots Relief and Development Agency,Conflict Prevention & Peacebuilding,Duk
 Grassroots Relief and Development Agency,Conflict Prevention & Peacebuilding,Fangak
@@ -1640,11 +1640,11 @@ Grassroots Relief and Development Agency,Conflict Prevention & Peacebuilding,Par
 Grassroots Relief and Development Agency,Conflict Prevention & Peacebuilding,Panyijar
 Grassroots Relief and Development Agency,Conflict Prevention & Peacebuilding,Rubkona
 Green Belt Initiative,Education,Juba
-Green Belt Initiative,Education,Bor
+Green Belt Initiative,Education,Bor South
 Green Belt Initiative,Education,Twic East
 Green Belt Initiative,Education,Duk
 The Health Support Organisation,Health,Ikotos
-The Health Support Organisation,Health,Bor
+The Health Support Organisation,Health,Bor South
 The Health Support Organisation,Health,Twic East
 The Health Support Organisation,Health,Pochalla
 The Health Support Organisation,Health,Uror
@@ -1655,7 +1655,7 @@ The Health Support Organisation,Nutrition,Tonj North
 The Health Support Organisation,Nutrition,Tonj South
 The Health Support Organisation,Nutrition,Twic
 The Health Support Organisation,WASH,Juba
-The Health Support Organisation,WASH,Bor
+The Health Support Organisation,WASH,Bor South
 The Health Support Organisation,WASH,Tonj North
 National Relief and Development Corps,Food Security & Livlihoods,Fashoda
 National Relief and Development Corps,Food Security & Livlihoods,Malakal
@@ -1697,7 +1697,7 @@ Relief Aid for Disaster Reduction Agency,Food Security & Livlihoods,Aweil South
 Relief Aid for Disaster Reduction Agency,Food Security & Livlihoods,Aweil West
 Relief Aid for Disaster Reduction Agency,WASH,Aweil Centre
 Humanitarian Development Consortium (HDC),Food Security & Livlihoods,Juba
-Humanitarian Development Consortium (HDC),Food Security & Livlihoods,Bor
+Humanitarian Development Consortium (HDC),Food Security & Livlihoods,Bor South
 Humanitarian Development Consortium (HDC),Food Security & Livlihoods,Twic East
 Humanitarian Development Consortium (HDC),Food Security & Livlihoods,Duk
 Humanitarian Development Consortium (HDC),Food Security & Livlihoods,Pibor
@@ -1710,7 +1710,7 @@ Humanitarian Development Consortium (HDC),Food Security & Livlihoods,Malakal
 Humanitarian Development Consortium (HDC),WASH,Maban
 Humanitarian Development Consortium (HDC),WASH,Malakal
 Humanitarian Development Consortium (HDC),Conflict Prevention & Peacebuilding,Juba
-Humanitarian Development Consortium (HDC),Conflict Prevention & Peacebuilding,Bor
+Humanitarian Development Consortium (HDC),Conflict Prevention & Peacebuilding,Bor South
 Humanitarian Development Consortium (HDC),Conflict Prevention & Peacebuilding,Duk
 Humanitarian Development Consortium (HDC),Conflict Prevention & Peacebuilding,Pibor
 Humanitarian Development Consortium (HDC),Conflict Prevention & Peacebuilding,Pochalla
@@ -1718,7 +1718,7 @@ Humanitarian Development Consortium (HDC),Conflict Prevention & Peacebuilding,Aw
 Humanitarian Development Consortium (HDC),Conflict Prevention & Peacebuilding,Fashoda
 Humanitarian Development Consortium (HDC),Conflict Prevention & Peacebuilding,Maban
 Humanitarian Development Consortium (HDC),Conflict Prevention & Peacebuilding,Malakal
-Humanitarian Development Consortium (HDC),Environment & Natural Resources,Bor
+Humanitarian Development Consortium (HDC),Environment & Natural Resources,Bor South
 Humanitarian Development Consortium (HDC) ,Environment & Natural Resources,Maban
 Mother and Children Development Aid,Food Security & Livlihoods,Juba
 Mother and Children Development Aid,Food Security & Livlihoods,Lainya
@@ -1937,7 +1937,7 @@ HOPE FOR COMMUNITY EMPOWERMENT,Media,Tambura
 HOPE FOR COMMUNITY EMPOWERMENT,Media,Yambio
 HOPE FOR COMMUNITY EMPOWERMENT,Media,Rumbek North
 HOPE FOR COMMUNITY EMPOWERMENT,Media,Wulu
-Conflict Transformation for Development(CTD),Education,Bor
+Conflict Transformation for Development(CTD),Education,Bor South
 Conflict Transformation for Development(CTD),Conflict Prevention & Peacebuilding,Juba
 OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Food Security & Livlihoods,Juba
 OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Food Security & Livlihoods,Kajo Keji
@@ -1965,7 +1965,7 @@ OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Fo
 OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Food Security & Livlihoods,Yambio
 OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Food Security & Livlihoods,Akobo
 OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Food Security & Livlihoods,Ayod
-OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Food Security & Livlihoods,Bor
+OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Food Security & Livlihoods,Bor South
 OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Food Security & Livlihoods,Twic East
 OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Food Security & Livlihoods,Duk
 OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Food Security & Livlihoods,Fangak
@@ -1985,12 +1985,12 @@ OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Mi
 OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Mine Action,Lafon
 OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Mine Action,Magwi
 OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Mine Action,Torit
-OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Mine Action,Bor
+OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Mine Action,Bor South
 OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Mine Action,Twic East
 OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Mine Action,Yirol East
 OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Mine Action,Yirol West
 OSIL-Partners in Relief & Development(formerly Operation Save Innocent lives),Conflict Prevention & Peacebuilding,Magwi
-Peace corps organisation south sudan,Education,Bor
+Peace corps organisation south sudan,Education,Bor South
 Peace corps organisation south sudan,Education,Pibor
 Peace corps organisation south sudan,Education,Rumbek East
 Peace corps organisation south sudan,Education,Aweil West
@@ -2155,30 +2155,30 @@ Agape Mission South Sudan,Education,Juba
 Agape Mission South Sudan,Food Security & Livlihoods,Juba
 Agape Mission South Sudan,Conflict Prevention & Peacebuilding,Juba
 WADENG WINGS OF HOPE,Education,Juba
-WADENG WINGS OF HOPE,Education,Bor
+WADENG WINGS OF HOPE,Education,Bor South
 WADENG WINGS OF HOPE,Education,Duk
 WADENG WINGS OF HOPE,Food Security & Livlihoods,Juba
-WADENG WINGS OF HOPE,Food Security & Livlihoods,Bor
+WADENG WINGS OF HOPE,Food Security & Livlihoods,Bor South
 WADENG WINGS OF HOPE,Food Security & Livlihoods,Duk
 WADENG WINGS OF HOPE,Nutrition,Juba
-WADENG WINGS OF HOPE,Nutrition,Bor
+WADENG WINGS OF HOPE,Nutrition,Bor South
 WADENG WINGS OF HOPE,Nutrition,Duk
 WADENG WINGS OF HOPE,Protection,Juba
-WADENG WINGS OF HOPE,Protection,Bor
+WADENG WINGS OF HOPE,Protection,Bor South
 WADENG WINGS OF HOPE,Protection,Duk
 WADENG WINGS OF HOPE,WASH,Juba
-WADENG WINGS OF HOPE,WASH,Bor
+WADENG WINGS OF HOPE,WASH,Bor South
 WADENG WINGS OF HOPE,WASH,Duk
 WADENG WINGS OF HOPE,Conflict Prevention & Peacebuilding,Juba
-WADENG WINGS OF HOPE,Conflict Prevention & Peacebuilding,Bor
+WADENG WINGS OF HOPE,Conflict Prevention & Peacebuilding,Bor South
 WADENG WINGS OF HOPE,Conflict Prevention & Peacebuilding,Duk
 WADENG WINGS OF HOPE,Conflict Prevention & Peacebuilding,Pibor
 WADENG WINGS OF HOPE,Governance & Rule of Law,Juba
-WADENG WINGS OF HOPE,Governance & Rule of Law,Bor
+WADENG WINGS OF HOPE,Governance & Rule of Law,Bor South
 WADENG WINGS OF HOPE,Governance & Rule of Law,Duk
  Resource Development Foundation for Africa,Education,Rumbek East
  Resource Development Foundation for Africa,Education,Wulu
- Resource Development Foundation for Africa,Mine Action,Bor
+ Resource Development Foundation for Africa,Mine Action,Bor South
 The Children's Initiative on Learning and Development,Education,Juba
 The Children's Initiative on Learning and Development,Education,Kajo Keji
 The Children's Initiative on Learning and Development,Education,Lainya
@@ -2294,7 +2294,7 @@ Magwi Action for Self Reliance Association,Food Security & Livlihoods,Magwi
 "South Sudan Widows, Orphans, Relief and Development Agency",Education,Juba
 "South Sudan Widows, Orphans, Relief and Development Agency",Education,Magwi
 "South Sudan Widows, Orphans, Relief and Development Agency",Education,Torit
-"South Sudan Widows, Orphans, Relief and Development Agency",Education,Bor
+"South Sudan Widows, Orphans, Relief and Development Agency",Education,Bor South
 "South Sudan Widows, Orphans, Relief and Development Agency",Food Security & Livlihoods,Juba
 "South Sudan Widows, Orphans, Relief and Development Agency",Food Security & Livlihoods,Kajo Keji
 "South Sudan Widows, Orphans, Relief and Development Agency",Food Security & Livlihoods,Terekeka
@@ -2308,10 +2308,10 @@ Care for Children & Old Age in South Sudan,Protection,Twic East
 Care for Children & Old Age in South Sudan,Protection,Duk
 Care for Children & Old Age in South Sudan,Protection,Awerial
 Care for Children & Old Age in South Sudan,Protection,Yirol East
-Care for Children & Old Age in South Sudan,Shelter and Non-Food Items,Bor
+Care for Children & Old Age in South Sudan,Shelter and Non-Food Items,Bor South
 Care for Children & Old Age in South Sudan,Shelter and Non-Food Items,Twic East
 Care for Children & Old Age in South Sudan,Shelter and Non-Food Items,Duk
-Care for Children & Old Age in South Sudan,WASH,Bor
+Care for Children & Old Age in South Sudan,WASH,Bor South
 Care for Children & Old Age in South Sudan,WASH,Twic East
 Care for Children & Old Age in South Sudan,WASH,Duk
 Care for Children & Old Age in South Sudan,WASH,Yirol East
@@ -2344,7 +2344,7 @@ Advocates Coalition For Rights and Development,WASH,Juba
 "The Health, Education and Luminous Community Organization",Governance & Rule of Law,Juba
 "The Health, Education and Luminous Community Organization",Governance & Rule of Law,Terekeka
 "The Health, Education and Luminous Community Organization",Media,Terekeka
-Sudan Medical Care,Health,Bor
+Sudan Medical Care,Health,Bor South
 Sudan Medical Care,Health,Duk
 Initiative for Peace Communication Association,Food Security & Livlihoods,Juba
 Initiative for Peace Communication Association,Food Security & Livlihoods,Kajo Keji
@@ -2366,7 +2366,7 @@ Initiative for Peace Communication Association,Conflict Prevention & Peacebuildi
 Initiative for Peace Communication Association,Conflict Prevention & Peacebuilding,Magwi
 Initiative for Peace Communication Association,Conflict Prevention & Peacebuilding,Akobo
 Initiative for Peace Communication Association,Conflict Prevention & Peacebuilding,Ayod
-Initiative for Peace Communication Association,Conflict Prevention & Peacebuilding,Bor
+Initiative for Peace Communication Association,Conflict Prevention & Peacebuilding,Bor South
 Initiative for Peace Communication Association,Conflict Prevention & Peacebuilding,Twic East
 Initiative for Peace Communication Association,Conflict Prevention & Peacebuilding,Duk
 Initiative for Peace Communication Association,Conflict Prevention & Peacebuilding,Fangak
@@ -2386,7 +2386,7 @@ Initiative for Peace Communication Association,Governance & Rule of Law,Terekeka
 Initiative for Peace Communication Association,Governance & Rule of Law,Yei
 Initiative for Peace Communication Association,Governance & Rule of Law,Budi
 Initiative for Peace Communication Association,Governance & Rule of Law,Ayod
-Initiative for Peace Communication Association,Governance & Rule of Law,Bor
+Initiative for Peace Communication Association,Governance & Rule of Law,Bor South
 Initiative for Peace Communication Association,Governance & Rule of Law,Twic East
 Initiative for Peace Communication Association,Governance & Rule of Law,Jur River
 Initiative for Peace Communication Association,Governance & Rule of Law,Raga
@@ -2540,7 +2540,7 @@ CARE PLUS FOUNDATION,Education,Terekeka
 Nile Hope,Education,Pibor
 Nile Hope,Education,Maiwut
 Nile Hope,Food Security & Livlihoods,Akobo
-Nile Hope,Food Security & Livlihoods,Bor
+Nile Hope,Food Security & Livlihoods,Bor South
 Nile Hope,Food Security & Livlihoods,Duk
 Nile Hope,Food Security & Livlihoods,Fangak
 Nile Hope,Food Security & Livlihoods,Pibor
@@ -2570,7 +2570,7 @@ Nile Hope,Protection,Leer
 Nile Hope,Protection,Luakpiny/Nasir
 Nile Hope,Protection,Ulang
 Nile Hope,WASH,Akobo
-Nile Hope,WASH,Bor
+Nile Hope,WASH,Bor South
 Nile Hope,WASH,Fangak
 Nile Hope,WASH,Canal/Pigi
 Nile Hope,WASH,Nyirol
@@ -2579,7 +2579,7 @@ Nile Hope,WASH,Leer
 Nile Hope,WASH,Maiwut
 Nile Hope,WASH,Luakpiny/Nasir
 Nile Hope,WASH,Ulang
-SUDAN MEDICAL CARE,Health,Bor
+SUDAN MEDICAL CARE,Health,Bor South
 SUDAN MEDICAL CARE,Health,Duk
 Junub Aid,Education,Juba
 Junub Aid,Education,Magwi
@@ -2651,7 +2651,7 @@ Opportunity for Poverty Eradication Network,Conflict Prevention & Peacebuilding,
 Opportunity for Poverty Eradication Network,Conflict Prevention & Peacebuilding,Yirol West
 Joint Aid for Community Recovery Agency,Education,Yei
 Joint Aid for Community Recovery Agency,Governance & Rule of Law,Ayod
-Joint Aid for Community Recovery Agency,Governance & Rule of Law,Bor
+Joint Aid for Community Recovery Agency,Governance & Rule of Law,Bor South
 Joint Aid for Community Recovery Agency,Governance & Rule of Law,Twic East
 United Peace Organization ,Education,Juba
 United Peace Organization ,Education,Terekeka
@@ -2722,11 +2722,11 @@ Correct partner,Protection,Yei
 Correct partner,Shelter and Non-Food Items,Yei
 Correct partner,WASH,Yei
 Correct partner,Conflict Prevention & Peacebuilding,Yei
-middle south ,Education,Bor
+middle south ,Education,Bor South
 middle south ,Food Security & Livlihoods,Twic East
 middle south ,Food Security & Livlihoods,Duk
 middle south ,CCCM,Twic East
-middle south ,Protection,Bor
+middle south ,Protection,Bor South
 middle south ,WASH,Twic East
 HUMANITARIAN DEVELOPMENT AGENCY ,Education,Juba
 HUMANITARIAN DEVELOPMENT AGENCY ,Education,Terekeka
@@ -2795,13 +2795,13 @@ SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS (SARRA ORG),Educa
 SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS (SARRA ORG),Education,Kapoeta South
 SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS (SARRA ORG),Education,Magwi
 SOLIDARITY ASSOCIATION FOR REHABILITATION AND RECOVERY AFFAIRS (SARRA ORG),Education,Torit
-Conflict Transformation for Development ,Education,Bor
-HUMANITARIAN AND DEVELOPMENT INITIATIVE ,Education,Bor
-HUMANITARIAN AND DEVELOPMENT INITIATIVE ,Shelter and Non-Food Items,Bor
-HUMANITARIAN AND DEVELOPMENT INITIATIVE ,WASH,Bor
-HUMANITARIAN AND DEVELOPMENT INITIATIVE ,Conflict Prevention & Peacebuilding,Bor
+Conflict Transformation for Development ,Education,Bor South
+HUMANITARIAN AND DEVELOPMENT INITIATIVE ,Education,Bor South
+HUMANITARIAN AND DEVELOPMENT INITIATIVE ,Shelter and Non-Food Items,Bor South
+HUMANITARIAN AND DEVELOPMENT INITIATIVE ,WASH,Bor South
+HUMANITARIAN AND DEVELOPMENT INITIATIVE ,Conflict Prevention & Peacebuilding,Bor South
 THE SOCIETY WE WANT,Conflict Prevention & Peacebuilding,Juba
-THE SOCIETY WE WANT,Conflict Prevention & Peacebuilding,Bor
+THE SOCIETY WE WANT,Conflict Prevention & Peacebuilding,Bor South
 THE SOCIETY WE WANT,Conflict Prevention & Peacebuilding,Twic East
 THE SOCIETY WE WANT,Conflict Prevention & Peacebuilding,Duk
 THE SOCIETY WE WANT,Conflict Prevention & Peacebuilding,Fangak
@@ -2809,7 +2809,7 @@ THE SOCIETY WE WANT,Conflict Prevention & Peacebuilding,Pibor
 THE SOCIETY WE WANT,Conflict Prevention & Peacebuilding,Cueibet
 THE SOCIETY WE WANT,Conflict Prevention & Peacebuilding,Rumbek Centre
 THE SOCIETY WE WANT,Governance & Rule of Law,Juba
-THE SOCIETY WE WANT,Governance & Rule of Law,Bor
+THE SOCIETY WE WANT,Governance & Rule of Law,Bor South
 THE SOCIETY WE WANT,Governance & Rule of Law,Twic East
 THE SOCIETY WE WANT,Governance & Rule of Law,Duk
 THE SOCIETY WE WANT,Governance & Rule of Law,Fangak
@@ -2886,8 +2886,8 @@ Hope Alive Resilience Organization,Education,Longochuk
 Hope Alive Resilience Organization,Food Security & Livlihoods,Ayod
 Hope Alive Resilience Organization,Nutrition,Fangak
 Hope Alive Resilience Organization,Conflict Prevention & Peacebuilding,Akobo
-Langbaar modern for social development association,Education,Bor
-Langbaar modern for social development association,Protection,Bor
+Langbaar modern for social development association,Education,Bor South
+Langbaar modern for social development association,Protection,Bor South
 Women and Equity Organization ,Education,Juba
 Women and Equity Organization ,Health,Juba
 Women and Equity Organization ,Protection,Juba
