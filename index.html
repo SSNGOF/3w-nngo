@@ -168,6 +168,11 @@
                 .data(function(group) {
                     return group.top(121);
                 })
+                .title(function(d) {
+                    return d.value; // or your custom value accessor
+                })
+                .renderTitleLabel(true)
+                .titleLabelOffsetX(10)
                 .colors(['#3182bd'])
                 .colorDomain([0,0])
                 .colorAccessor(function(d, i){ return 1;} );
