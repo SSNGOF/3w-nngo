@@ -49,7 +49,8 @@
         <div class="row">
             <div class="col-md-12">
                 <ul id="ss3w-year-tabs" class="link-tabs" role="tablist">
-                    <li class="active"><a href="#2017" data-year="2017" >2017</a></li>
+                    <li class="active"><a href="#2018" data-year="2018">2018</a></li>
+                    <li><a data-year="2017" href="#2017">2017</a></li>
                     <li><a data-year="2016" href="#2016">2016</a></li>
                     <li><a data-year="2015" href="#2015">2015</a></li>
                 </ul>
@@ -99,7 +100,7 @@
     </div>
     <footer>
         <p class="text-center">
-            &copy; South Sudan NGO Forum | southsudanngoforum.org | All rights reserved | Powered by <a href="https://github.com/brianmcdonald/">Brian's Scripts</a><br/>
+            &copy; South Sudan NGO Forum | southsudanngoforum.org | All rights reserved <br/>
             <img style="height:50px" src="img/ngo-forum-donor-logos.png" alt="Donors"/>
         </p>
     </footer>
@@ -122,9 +123,10 @@
     var map_chart = dc.geoChoroplethChart("#map");
     var org_chart = dc.rowChart("#orgs");
 
-    var load_dashboard = function ( year )
+    var load_dashboard = function ( year , current_year)
     {    
-        _date = "20 September";
+        current_year = current_year || false;
+        _date = current_year ? "31st March" : "20 September";
         $("#last-updated-date").empty().text(_date + " " + year )
 
         csv_file = "data/SS3W-"+ year +".csv";
@@ -162,10 +164,14 @@
                 .colorDomain([0,9])
                 .colorAccessor(function(d, i) { return i % 9; });
 
-            org_chart.width(350).height(2500)
+            org_chart.width(350).height(organisation.all().length * 25)  // assign a dynamic height 
                 .dimension(cf.organisation)
                 .group(organisation)
                 .elasticX(true)
+                .renderLabel(true)
+                .label(function (p) {
+                    return p.key +" - "+ p.value;
+                })
                 .data(function(group) {
                     return group.top(121);
                 })
@@ -203,7 +209,7 @@
 
     first_tab = $('#ss3w-year-tabs li:first-child a')
     location.hash = first_tab.attr("href");
-    load_dashboard( $.trim(first_tab.attr('data-year')) );
+    load_dashboard( $.trim(first_tab.attr('data-year')) , true);
     
     $('#ss3w-year-tabs li a').on('click', function(e) {
         e.preventDefault();
@@ -219,7 +225,7 @@
         // add active class
         $$.parent().addClass('active');
 
-        load_dashboard( year );         
+        load_dashboard( year, $.trim(first_tab.attr('data-year')) == year);         
         return false;
     });
 
